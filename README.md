@@ -2,18 +2,15 @@
 
 I plan to add stuff soon!
 
+[Link to this site](http://cladjevardi.github.io)
+
 ```markdown
 This is where I would display code
 
-- Bulleted
-- List
+if (siteIsComplete){
+  return true
+}
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[cladjevardi.github.io](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
